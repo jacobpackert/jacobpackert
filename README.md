@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Jacob 👋
 
-<!--
-**jacobpackert/jacobpackert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like the Internet, tech, music and code.
 
-Here are some ideas to get you started:
+I live in lovely [Copenhagen](https://jacobpackert.dk/blog/why-bicycling-in-copenhagen-is-so-fantastic/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work as a Frontend Engineer at [DR](https://dr.dk), the Danish Broadcasting Corporation.
+
+I used to work with politics, then I worked with marketing. Some would say that’s the same thing.
+
+Now I write code for a living and build products and websites. For work and for fun.
+
+I love Javascript and React ⚛️ and I’m building a few apps with React Native and Expo 📱 For data science and Raspberry Pi fun I'm learning Python 🐍.
